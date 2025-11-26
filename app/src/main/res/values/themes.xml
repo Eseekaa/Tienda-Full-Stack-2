@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Tema base de la app -->
+    <style name="Theme.MangelOS" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Colores principales -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+
+        <!-- Fondo por defecto de las Activity -->
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+</resources>

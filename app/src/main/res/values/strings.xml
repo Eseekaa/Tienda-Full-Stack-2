@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MangelOS</string>
+
+    <!-- Textos de la pantalla principal -->
+    <string name="product_name_hint">Nombre del producto</string>
+    <string name="product_price_hint">Precio</string>
+    <string name="text_images_selected">0 imágenes seleccionadas</string>
+    <string name="btn_select_images">Seleccionar imágenes</string>
+    <string name="btn_save_product">Guardar producto</string>
+
+</resources>
